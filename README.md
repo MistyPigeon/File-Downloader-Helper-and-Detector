@@ -1,4 +1,4 @@
-# File-Downloader-Helper-and-Detector
+# FileHelpect
 This repository allows you to easily download files from the `files/` directory.
 
 ## How to Download
