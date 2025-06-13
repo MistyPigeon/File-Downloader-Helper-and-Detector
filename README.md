@@ -21,12 +21,14 @@ This repository allows you to easily download files from the `files/` directory.
 
 ## Directory Structure
 ```
-my-repo/
+FileHelpect/
 ├── files/
-│   ├── file1.txt
-│   ├── file2.txt
+│   ├── FileDownloadApp.java
+│   ├── malicious_file_detector.c
 ├── generate_zip.py
+├── NOTICE.txt
 └── README.md
+
 ```
 
 ## Dependencies
